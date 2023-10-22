@@ -32,7 +32,7 @@ Briefly, the supported operating systems are:
 
 ### ❓❓ - How use this script??
 
-1. Clone this repository: ```git clone https://github.com/Matheus-FSantos/vite-script.git```
+1. Clone this repository: ```git clone https://github.com/Matheus-FSantos/4vite.git```
 2. Grant permissions for this file to act as a command: ```chmod +x vite```
 3. Move the "vite" file to /usr/local/bin: ```sudo mv vite /usr/local/bin/```
 4. Be happy!
