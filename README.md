@@ -11,7 +11,7 @@
 
 ### 🤔🤷‍♂️ - Problematic
 
-You must have, at some point, stopped to think: “Why is it that every time I want to create a vite project I need to use the long command, ‘npm create vite@latest’?”, I don't know about you, but this sucks for me! That's why I decided to create this project.
+You must have, at some point, stopped to think: *“Why is it that every time I want to create a vite project I need to use the long command, ‘npm create vite@latest’?”*, I don't know about you, but this sucks for me! That's why I decided to create this project.
 
 **This project will help you DRASTICALLY** shorten the "npm create vite@latest" command.
 
