@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ "$1" == "create" ]; then
+    npm create vite@latest
+else
+    echo "Para se usar o script vite deve-se, obrigatóriamente, usar o argumento create!"
+fi
