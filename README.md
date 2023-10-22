@@ -30,6 +30,13 @@ Briefly, the supported operating systems are:
 - [X] MacOS;
 - [X] Linux Distributions.
 
+### ❓❓ - How use this script??
+
+1. Clone this repository: ```git clone https://github.com/Matheus-FSantos/vite-script.git```
+2. Grant permissions for this file to act as a command: ```chmod +x vite```
+3. Move the "vite" file to /usr/local/bin: ```sudo mv vite /usr/local/bin/```
+4. Be happy!
+
 ### 📚 - Informations
 > Project Version: 1.0.0-SNAPSHOT;<br/>
 > First version released in: October 22, 2023;<br/>
