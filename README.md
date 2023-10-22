@@ -38,6 +38,6 @@ Briefly, the supported operating systems are:
 4. Be happy!
 
 ### 📚 - Informations
-> Project Version: 1.0.0-SNAPSHOT;<br/>
-> First version released in: October 22, 2023;<br/>
-> Repository Owner: Matheus-FSantos (Matheus Ferreira Santos, me).
+> Project Version: 1.0.0-SNAPSHOT<br/>
+> First version released in: October 22, 2023<br/>
+> Repository Owner: Matheus-FSantos (Matheus Ferreira Santos, me)
